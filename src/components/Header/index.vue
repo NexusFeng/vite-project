@@ -1,6 +1,7 @@
 <template>
   <div>
     <p class="header">This is Header</p>
+    <img src="@assets/logo.png" style="width: 200px" alt="vue">
   </div>
 </template>
 
